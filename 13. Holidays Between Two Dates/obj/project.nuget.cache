@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AnnHDePA+iMztFlK263UcCtnMd+5evB7LXIQsVcpgSmKE0KjZLkF8aPvsMQom9L9EykjvLaodQ+Gpywv2af4zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxib\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\13. Holidays Between Two Dates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

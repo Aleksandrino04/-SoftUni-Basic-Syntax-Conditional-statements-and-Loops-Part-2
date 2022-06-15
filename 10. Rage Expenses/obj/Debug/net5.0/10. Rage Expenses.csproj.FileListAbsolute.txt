@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.exe
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.deps.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\bin\Debug\net5.0\ref\10. Rage Expenses.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.pdb
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\ref\10. Rage Expenses.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.pdb
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.genruntimeconfig.cache

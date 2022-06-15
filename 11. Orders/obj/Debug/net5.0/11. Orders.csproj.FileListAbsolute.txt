@@ -1,0 +1,15 @@
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\bin\Debug\net5.0\11. Orders.exe
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\bin\Debug\net5.0\11. Orders.deps.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\bin\Debug\net5.0\11. Orders.runtimeconfig.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\bin\Debug\net5.0\11. Orders.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\bin\Debug\net5.0\11. Orders.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\bin\Debug\net5.0\ref\11. Orders.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\bin\Debug\net5.0\11. Orders.pdb
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\obj\Debug\net5.0\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\obj\Debug\net5.0\11. Orders.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\obj\Debug\net5.0\11. Orders.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\obj\Debug\net5.0\11. Orders.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\obj\Debug\net5.0\11. Orders.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\obj\Debug\net5.0\ref\11. Orders.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\obj\Debug\net5.0\11. Orders.pdb
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\11. Orders\obj\Debug\net5.0\11. Orders.genruntimeconfig.cache
